@@ -5,3 +5,5 @@ For the animated header feature, jquery files can be located within plugins.
 Let me know if you have any questions on Bootstrap, UI/UX elements, and responsive design. CopePen.io is a great reference for locating open sources web designs, animations, and features.
 
 Go for it and best of luck!
+
+P.S. Don't forget the jquery.migrate.min and jquery.min files. 
